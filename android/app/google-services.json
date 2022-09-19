@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482730402301",
+    "project_id": "dawn-stationery",
+    "storage_bucket": "dawn-stationery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482730402301:android:33e2202043ce9b1f48b994",
+        "android_client_info": {
+          "package_name": "com.dawn.stationary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482730402301-a9frm9j06tncnjjusdr8oanp4me1hfea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7HrPhsKfTB91fSVsZTPxUUUkJBCai5FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482730402301-a9frm9j06tncnjjusdr8oanp4me1hfea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
